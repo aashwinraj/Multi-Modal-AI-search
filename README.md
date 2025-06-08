@@ -16,7 +16,7 @@ We use a subset of the [Fashion Product Images (Small)](https://www.kaggle.com/d
 - `styles/`: Folder containing per-image JSON files with `category`, `subcategory`, and descriptions
 
 
-querry: Full sleeve red shirts for men:
+querry: red shirts for men:
 Output:top 5 matching images:
 ![{A288AB88-5431-4C0F-9672-31671DF288A0}](https://github.com/user-attachments/assets/79ff89da-390e-43bf-8065-213ac32f78be)
 
