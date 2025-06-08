@@ -21,7 +21,8 @@ Output:top 5 matching images:
 ![{A288AB88-5431-4C0F-9672-31671DF288A0}](https://github.com/user-attachments/assets/79ff89da-390e-43bf-8065-213ac32f78be)
 
 querry:
-![Uploading 1525.jpg…]()
+![1525](https://github.com/user-attachments/assets/cb159c5b-31c3-4d9b-822a-fd0083048108)
+
 
 Oytput:![{A785ACCC-28F6-4179-A070-15E8835D6FD8}](https://github.com/user-attachments/assets/7ba3a1ba-e26b-4a72-ba43-c528916aed68)
 
