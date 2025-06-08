@@ -5,12 +5,12 @@ This project is a **multi-modal product search engine** that allows users to inp
 
 It uses **CLIP (Contrastive Language–Image Pre-training)** for creating embeddings from both images and text, and **FAISS** for efficient nearest neighbor search.
 
-**Real world applications:
+Real world applications:
 1. E-Commerce Product Search
 2. Visual Search (Search by Image or Text)
 3. Digital Asset Management (DAM)
 4. Content Moderation & Compliance
-5. Game Asset or 3D Model Search**
+5. Game Asset or 3D Model Search
 ---
 
 ## 📁 Dataset
